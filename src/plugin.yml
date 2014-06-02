@@ -1,4 +1,4 @@
-name: EmpirePets
+name: TysonPets
 author: OnesRodriguez
 version: 1.0
 main: me.onesrodriguez.empirepets.Core
@@ -6,7 +6,7 @@ commands:
     spawnmerchant:
         description: Spawn merchant
         usage: /spawnmerchant <type>
-    empirepet:
+    tysonpet:
         description: Main pet command.
-        usage: /empirepet
+        usage: /tysonpet
         
