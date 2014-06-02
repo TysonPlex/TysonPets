@@ -1,0 +1,12 @@
+name: EmpirePets
+author: OnesRodriguez
+version: 1.0
+main: me.onesrodriguez.empirepets.Core
+commands:
+    spawnmerchant:
+        description: Spawn merchant
+        usage: /spawnmerchant <type>
+    empirepet:
+        description: Main pet command.
+        usage: /empirepet
+        
